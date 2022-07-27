@@ -5,19 +5,27 @@
 .Titulos{
     font-size: 200%;
 }
+.fondo{
+    background-color: bisque;
+}
 .cv{
-    background-color: blue;
-    color: white;
+    color: rgb(1, 0, 0);
     text-align: center;
 }
 
 .container{
     display: flex;
-    
-
 }
-.item{
-    width: 50%;
+
+.elemento{
+    width:20%;
+}
+.n70 {
+    width: 70%;
+}
+
+.n30 {
+    width: 30%;
 }
 .general{
     max-width: 1200px;
